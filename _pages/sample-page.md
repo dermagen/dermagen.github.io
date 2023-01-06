@@ -5,6 +5,12 @@ permalink: /sample-page/
 date: 2016-02-24T03:02:20+00:00
 ---
 
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/splash.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  
 A variety of common markup showing how the theme styles them.
 
 # Header one
